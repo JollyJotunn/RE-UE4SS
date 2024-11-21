@@ -455,7 +455,7 @@ namespace RC
         key_table.add_pair("RIGHT_WIN", 0x5C);
         key_table.add_pair("APPS", 0x5D);
         key_table.add_pair("SLEEP", 0x5F);
-        key_table.add_pair("NUM_ZERO", 0x69);
+        key_table.add_pair("NUM_ZERO", 0x60);
         key_table.add_pair("NUM_ONE", 0x61);
         key_table.add_pair("NUM_TWO", 0x62);
         key_table.add_pair("NUM_THREE", 0x63);
